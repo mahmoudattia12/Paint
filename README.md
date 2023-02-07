@@ -38,7 +38,8 @@
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/Paint%20Class%20diagram.png?raw=true)
 - [link to the uml class diagram](https://drive.google.com/file/d/1Vt4kMUUd6xGtHWJwzMH-7189OuPy9bO5/view?usp=share_link)
 ## Snapshots of our UI and a user guide:
-![image](https://drive.google.com/file/d/1Mrgn12lQMYSz4C-QNl93Zvh2dIfnH2iR/view?usp=sharing)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/1.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/2.jpg?raw=true)
 
 
 
