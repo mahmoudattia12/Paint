@@ -46,45 +46,47 @@
 1. The left red rectangle specifies the shapes, which the app supports.Click on the shape then click on the drawing field to draw the shape.
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/4.jpg?raw=true)
 ### For Example:
-![image]()
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/5.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/6.jpg?raw=true)
+---
 2. The above red rectangle states all operations can be done through your session in the application in addition to saving your drawing and opening previously saved one:
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/7.jpg?raw=true)
     - Save icon to save your painting, click on it then it will show you the different forms saving and you can choose any one of them and a pop up menu will appear to you to set the file name and path you want to save in:
-![image]()
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/8.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/9.jpg?raw=true)
     - Open icon for opening loaded file in the saved folders:
 #### This is the saved file:
-![image]()
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/10.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/11.jpg?raw=true)
 #### Loaded file you saved using the same path you used to save:
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/12.jpg?raw=true)
     - Click Undo (Undo: ctrl + z) to back to the previous step/s if you want that:
-![image]()
-![image]()
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/13.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/14.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/15.jpg?raw=true)
     - Clicking on Redo (Redo: ctrl + y) bring you the last change if you clicked undo before:
-![image]()
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/16.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/17.jpg?raw=true)
 #### Clicking undo
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/18.jpg?raw=true)
 #### Clicking redo
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/19.jpg?raw=true)
     - clicking on this will delete the selected shape/s:
-![image]()
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/20.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/21.jpg?raw=true)
     - To delete all the painting:
-![image]()
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/22.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/23.jpg?raw=true)
     - Click on this will Copy the shape (Copy: ctrl + c) :
-![image]()
-![image]()
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/24.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/25.jpg?raw=true)
     - multiple selection:
 #### the user can select more than one shape using the selection rectangle:
-![image]()
-![image]() 
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/multiselection.jpg?raw=true) 
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/multiselection2.jpg?raw=true)
+---
 3. Then this last rectangle to color any selected shape. Color icon to specify the color that you want, fill to color inside the shape by this color after selecting the shape. And border icon to color the shape border after selecting the shape.
-![image]()        
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/26.jpg?raw=true)       
 
 
 
