@@ -9,8 +9,8 @@
 - [Snapshots of our UI and a user guide](#Snapshots-of-our-UI-and-a-user-guide)
 ---
 ## Frameworks & technology used:
-> - For the frontend part (view part), we used HTML, CSS, and typescript through angular framework.
-> - For the backend (model and controller), we used Java language through spring framework.
+- For the frontend part (view part), we used HTML, CSS, and typescript through angular framework.
+- For the backend (model and controller), we used Java language through spring framework.
 ---
 ## How to run:
 - Note: Make sure you have downloaded NodeJs and Angular-CLI.
@@ -35,6 +35,7 @@
 - Then creates an instance of ‘SendCopied’ class to call ‘ConvertJson(shape)’ method that takes the shape as an argument to return a copy of the shape attributes as string then the frontend will draw the shape with these attributes.
 ---
 ## UML class diagram:
+![Minion](https://octodex.github.com/images/minion.png)
 
 
 
