@@ -1,2 +1,2 @@
 # Paint
-# how to run:
+### how to run:
