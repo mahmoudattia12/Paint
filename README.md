@@ -37,8 +37,7 @@
 ## UML class diagram:
 ![Minion](https://octodex.github.com/images/minion.png)
 -[link to the uml class diagram](https://www.google.com/search?q=%D9%85%D9%88%D8%B9%D8%AF+%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9+%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%89&rlz=1C1CHBD_arEG1014EG1014&oq=%D9%85%D9%88&aqs=chrome.1.69i57j35i39l2j0i131i433i512j46i433i512j0i131i433i512j0i512l4.1920j0j15&sourceid=chrome&ie=UTF-8)
-
-
+-am
 
 
 
