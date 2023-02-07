@@ -60,27 +60,27 @@
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/11.jpg?raw=true)
 #### Loaded file you saved using the same path you used to save:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/12.jpg?raw=true)
-    - Click Undo (Undo: ctrl + z) to back to the previous step/s if you want that:
+    o Click Undo (Undo: ctrl + z) to back to the previous step/s if you want that:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/13.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/14.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/15.jpg?raw=true)
-    - Clicking Redo (Redo: ctrl + y) bring you the last change if you clicked undo before:
+    o Clicking Redo (Redo: ctrl + y) bring you the last change if you clicked undo before:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/16.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/17.jpg?raw=true)
 #### Clicking undo
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/18.jpg?raw=true)
 #### Clicking redo
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/19.jpg?raw=true)
-    - Clicking on delete element will delete the selected shape/s:
+    o Clicking on delete element will delete the selected shape/s:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/20.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/21.jpg?raw=true)
-    - To delete all the painting:
+    o To delete all the painting:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/22.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/23.jpg?raw=true)
-    - Click on this will Copy the shape (Copy: ctrl + c) :
+    o Click on Copy will Copy the shape (Copy: ctrl + c) :
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/24.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/25.jpg?raw=true)
-    - multiple selection:
+    o multiple selection:
 #### the user can select more than one shape using the selection rectangle:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/multiselection.jpg?raw=true) 
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/multiselection2.jpg?raw=true)
