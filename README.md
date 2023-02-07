@@ -5,7 +5,7 @@
 - [Used design patterns](#used-design-patterns)
 - [UML class diagram](#UML-class-diagram)
 - [Snapshots of our UI and a user guide](#Snapshots-of-our-UI-and-a-user-guide)
-- [Demo Video](#Demo-Video)
+- [Demo Video for using the app](#Demo-Video-for-using-the-app)
 ---
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/A1.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/A2.jpg?raw=true)
@@ -40,6 +40,7 @@
 ## UML class diagram:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/Paint%20Class%20diagram.png?raw=true)
 - [link to the uml class diagram](https://drive.google.com/file/d/1Vt4kMUUd6xGtHWJwzMH-7189OuPy9bO5/view?usp=share_link)
+---
 ## Snapshots of our UI and a user guide:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/1.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/2.jpg?raw=true)
@@ -102,7 +103,7 @@
 3. Then this last rectangle to color any selected shape. Color icon to specify the color that you want, fill to color inside the shape by this color after selecting the shape. And border icon to color the shape border after selecting the shape.
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/26.jpg?raw=true)       
 ---
-## Demo Video:
+## Demo Video for using the app:
 - [link to the video](https://drive.google.com/file/d/1sTzXK4XYjFNsEc8gUkKepFy88FILiUoJ/view?usp=sharing)
 
 
