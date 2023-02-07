@@ -1,3 +1,5 @@
 # Paint 
-### how to run:
----
+## Contents:
+-[Frameworks & technology used](#Frameworks & technology used)
+-[Frameworks & technology used](#Frameworks & technology used)
+
