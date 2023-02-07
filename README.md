@@ -8,6 +8,10 @@
 - [UML class diagram](#UML-class-diagram)
 - [Snapshots of our UI and a user guide](#Snapshots-of-our-UI-and-a-user-guide)
 ---
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/A1.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/A2.jpg?raw=true)
+![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/A3.jpg?raw=true)
+---
 ## Frameworks & technology used:
 - For the frontend part (view part), we used HTML, CSS, and typescript through angular framework.
 - For the backend (model and controller), we used Java language through spring framework.
