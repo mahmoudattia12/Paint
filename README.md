@@ -64,14 +64,14 @@
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/13.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/14.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/15.jpg?raw=true)
-    - Clicking on Redo (Redo: ctrl + y) bring you the last change if you clicked undo before:
+    - Clicking Redo (Redo: ctrl + y) bring you the last change if you clicked undo before:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/16.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/17.jpg?raw=true)
 #### Clicking undo
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/18.jpg?raw=true)
 #### Clicking redo
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/19.jpg?raw=true)
-    - clicking on this will delete the selected shape/s:
+    - Clicking on delete element will delete the selected shape/s:
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/20.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/21.jpg?raw=true)
     - To delete all the painting:
