@@ -1,18 +1,17 @@
 # Paint 
 ## Contents:
-- [Frameworks & technology used](#Frameworks-&-technology-used)
+- [Frameworks and technology used](#Frameworks-and-technology-used)
 - [How to run](#How-to-run)
 - [Used design patterns](#used-design-patterns)
-    - [1- Factory design pattern](#Factory-design-pattern)
-    - [2- Prototype design pattern](#Prototype-design-pattern)
 - [UML class diagram](#UML-class-diagram)
 - [Snapshots of our UI and a user guide](#Snapshots-of-our-UI-and-a-user-guide)
+- [Demo Video](#Demo-Video)
 ---
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/A1.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/A2.jpg?raw=true)
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/A3.jpg?raw=true)
 ---
-## Frameworks & technology used:
+## Frameworks and technology used:
 - For the frontend part (view part), we used HTML, CSS, and typescript through angular framework.
 - For the backend (model and controller), we used Java language through spring framework.
 ---
@@ -102,6 +101,9 @@
 ---
 3. Then this last rectangle to color any selected shape. Color icon to specify the color that you want, fill to color inside the shape by this color after selecting the shape. And border icon to color the shape border after selecting the shape.
 ![image](https://github.com/mahmoudattia12/Paint/blob/main/screenshots/26.jpg?raw=true)       
+---
+## Demo Video:
+- [link to the video](https://drive.google.com/file/d/1Vt4kMUUd6xGtHWJwzMH-7189OuPy9bO5/view?usp=share_link)
 
 
 
